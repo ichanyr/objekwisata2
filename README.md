@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 ## Home Page
-![curug](https://user-images.githubusercontent.com/114141633/199156042-b5e0d47c-f5c3-4ce2-96f0-cd489fb6aeef.jpg)
+![Screenshot (22)](https://user-images.githubusercontent.com/114141633/199156792-98afb797-6947-48ea-bd6a-7cd482575ef4.png)
+
