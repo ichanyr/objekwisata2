@@ -1,6 +1,9 @@
-# Tugas Icha
+# Tugas 8
 
-A new Flutter project.
+Nama  : Icha Nur Yuliarahma
+Kelas : IK2B
+Absen : 12
+NIM   : 3.34.21.1.13
 
 ## Getting Started
 
