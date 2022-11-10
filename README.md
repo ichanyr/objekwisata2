@@ -1,10 +1,10 @@
 # Tugas 8
 Membuat tampilan infomasi tempat wisata.
 
-> Nama  : Icha Nur Yuliarahma
-Kelas : IK2B
-Absen : 12
-NIM   : 3.34.21.1.13
+- Nama  : Icha Nur Yuliarahma
+- Kelas : IK2B
+- Absen : 12
+- NIM   : 3.34.21.1.13
 
 Materi dalam tugas 8 sbb:
 - Container
